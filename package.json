@@ -1,0 +1,11 @@
+{
+  "name": "polymer-drool",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "drool": "^0.2.2",
+    "finalhandler": "^0.4.0",
+    "humanize": "0.0.9",
+    "serve-static": "^1.10.0"
+  }
+}
